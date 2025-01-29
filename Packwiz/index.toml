@@ -29,6 +29,18 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/TheAncientCityOverhaul_v1_6.zip"
+hash = "5ff98f23deb18d26b56906c6859bbfe66e6f1d07aa2f379dad3b1f5271132c26"
+
+[[files]]
+file = "config/paxi/datapacks/thebastionoverhaul-v1-0.zip"
+hash = "c2f2309970253805050b4ece1942d9c85b9ab63d9893fb54394c814084bb8191"
+
+[[files]]
+file = "config/paxi/datapacks/trailruins-overhaul-v1-0-1.zip"
+hash = "df67ae06de1abedd0fedf6d865b32428b0804e3f139ca8d659adb2b431df5678"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -71,6 +83,11 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "1b9457084d4e7a1e1b0a97a6dc04f8c10b9f4fe45926123a27ff11b9f38e7f50"
+
+[[files]]
+file = "mods/abandoned-villages.pw.toml"
+hash = "d5219dd54fb1c6fcb0d6c13a042f2eb06820d9d604e2839fca1bc8e8dca845b3"
+metafile = true
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -263,6 +280,16 @@ hash = "d708ec0bec02f124b5c0c8b01d2136a48dc9b5269ce7843dc89c94deda5442bf"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "af346de7aed0fb58198dfc8d5f6674a3b0100a3928d7901f1e75248c8f78d3b9"
 metafile = true
@@ -425,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/gardens-of-the-dead.pw.toml"
 hash = "ba1443c1eed15422e13e1ec6c65c5c75436bf103457d39fa59f7491430b85f1c"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]

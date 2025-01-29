@@ -1,0 +1,13 @@
+name = "80% Abandoned Villages"
+filename = "abandoned-villages-v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fLAIO8XF/versions/260YOVzN/abandoned-villages-v1.0.1.jar"
+hash-format = "sha1"
+hash = "af8fb38a7a4c11963a740e045e8e6107e531b33d"
+
+[update]
+[update.modrinth]
+mod-id = "fLAIO8XF"
+version = "260YOVzN"
