@@ -200,11 +200,6 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
-file = "mods/brute-force-rendering-culling.pw.toml"
-hash = "0a2c1d93daf829eb05813045047c3e174e952c8201626d5d7eca16b7bbd0ad94"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
