@@ -613,11 +613,6 @@ hash = "147b6b0f10a870d77f49a494a62d0392ba47549d4e1bb9a09ccdcc4325afdb72"
 metafile = true
 
 [[files]]
-file = "mods/nether-depths-mod.pw.toml"
-hash = "430cf97cb36122989837ebf7bf99820d57cb0640369e58ba2af3103682de993e"
-metafile = true
-
-[[files]]
 file = "mods/new_world.pw.toml"
 hash = "05d7ecc6cdcc8a8129c67de225833467ef9abe15b934a86f4cd3a0fc39358423"
 metafile = true
