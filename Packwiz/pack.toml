@@ -1,0 +1,13 @@
+name = "jitterpack"
+author = "Jitter"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac690c56747f98656844fb79a488cef70a290fa0a2c39889f37926658f989c0e"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

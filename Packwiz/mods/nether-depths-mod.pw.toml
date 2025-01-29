@@ -1,0 +1,13 @@
+name = "Nether Depths"
+filename = "nether_depths-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9zWTQbJa/versions/ZSrQDotu/nether_depths-1.0.0.jar"
+hash-format = "sha1"
+hash = "fc6f22c327deb81ebc92d0f9a900f10d73f384c7"
+
+[update]
+[update.modrinth]
+mod-id = "9zWTQbJa"
+version = "ZSrQDotu"

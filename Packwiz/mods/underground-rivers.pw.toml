@@ -1,0 +1,13 @@
+name = "Underground Rivers"
+filename = "underground_rivers_1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y7J94SaP/versions/SwU1G3Ua/underground_rivers_1.0.0.jar"
+hash-format = "sha1"
+hash = "9d7f333c5c092e64fbf4030a3e3775f5c96f1f5f"
+
+[update]
+[update.modrinth]
+mod-id = "Y7J94SaP"
+version = "SwU1G3Ua"

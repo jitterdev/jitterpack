@@ -1,0 +1,13 @@
+name = "Death Knell"
+filename = "DeathKnell-Fabric-1.20.1-10.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WNdd2blX/versions/uHhWhmfH/DeathKnell-Fabric-1.20.1-10.0.4.jar"
+hash-format = "sha1"
+hash = "8facfbd3198ea68cbeb10060dfe4a7b0767d1f68"
+
+[update]
+[update.modrinth]
+mod-id = "WNdd2blX"
+version = "uHhWhmfH"

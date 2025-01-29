@@ -1,0 +1,13 @@
+name = "Florum Sporum"
+filename = "florum-sporum-1.5.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3KmV3g7F/versions/NbmhiAmY/florum-sporum-1.5.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "ec4166120594bc0bf976c67f2fd0a246ac2623fc"
+
+[update]
+[update.modrinth]
+mod-id = "3KmV3g7F"
+version = "NbmhiAmY"

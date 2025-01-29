@@ -1,0 +1,13 @@
+name = "NewWorld"
+filename = "newworld-fabric-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8XpQehpK/versions/dYSdQi05/newworld-fabric-1.20.1-1.5.0.jar"
+hash-format = "sha1"
+hash = "abfae9b18aa926949a7f9f94fe44c24ebffc558a"
+
+[update]
+[update.modrinth]
+mod-id = "8XpQehpK"
+version = "dYSdQi05"

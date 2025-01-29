@@ -1,0 +1,13 @@
+name = "Tide"
+filename = "Tide-fabric-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/die1AF7i/versions/bAiIze17/Tide-fabric-1.20.1-1.5.0.jar"
+hash-format = "sha1"
+hash = "c70279d21b66e0d0b56113541c7719bdc25b06ce"
+
+[update]
+[update.modrinth]
+mod-id = "die1AF7i"
+version = "bAiIze17"

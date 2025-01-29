@@ -1,0 +1,38 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "atmosfera:dungeons",
+    "continuity:glass_pane_culling_fix",
+    "continuity:default"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "continuity:glass_pane_culling_fix",
+      "continuity:default"
+    ],
+    "$$1": {
+      "hidden": true,
+      "required": true
+    },
+    "atmosfera:dungeons": {
+      "hidden": true,
+      "required": true
+    },
+    "2": [
+      "Fabrication grayscale",
+      "Fabrication",
+      "Moonlight Mods Dynamic Assets",
+      "natures_spirit:dye_depot_compatibility_res",
+      "dye_depot:dye_override",
+      "natures_spirit:better_leaves_compatibility",
+      "supplementaries:darker_ropes"
+    ],
+    "$$2": {
+      "hidden": true
+    }
+  }
+}

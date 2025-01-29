@@ -1,0 +1,13 @@
+name = "Stockpile"
+filename = "Stockpile-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6atAGTzi/versions/OO4z2G6C/Stockpile-0.1.jar"
+hash-format = "sha1"
+hash = "161d66390004e88988f72c838b85b1df26856d3c"
+
+[update]
+[update.modrinth]
+mod-id = "6atAGTzi"
+version = "OO4z2G6C"

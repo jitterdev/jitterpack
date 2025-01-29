@@ -1,0 +1,13 @@
+name = "Brute force Rendering Culling"
+filename = "BruteForceRenderingCulling-fabric-1.20.1-0.5.12.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2wFaq89h/versions/F6dedvxg/BruteForceRenderingCulling-fabric-1.20.1-0.5.12.jar"
+hash-format = "sha1"
+hash = "3fb437ac847ddf76dd7f3a57089c3bc755f44c40"
+
+[update]
+[update.modrinth]
+mod-id = "2wFaq89h"
+version = "F6dedvxg"

@@ -1,0 +1,13 @@
+name = "Re:Deco"
+filename = "redeco-fabric-BETA-0.12-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xejiztgi/versions/8uwrPQrZ/redeco-fabric-BETA-0.12-1.20.1.jar"
+hash-format = "sha1"
+hash = "b84106cee8e16b0878c32af31f9afcd5e4af7cc9"
+
+[update]
+[update.modrinth]
+mod-id = "xejiztgi"
+version = "8uwrPQrZ"

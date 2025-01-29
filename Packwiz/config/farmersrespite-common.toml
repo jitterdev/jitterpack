@@ -1,0 +1,6 @@
+#Game settings
+[settings]
+	#Are coffee bushes bonemealable?
+	enableBoneMealCoffeeBush = true
+	#Are tea bushes bonemealable?
+	enableBoneMealTeaBush = true
