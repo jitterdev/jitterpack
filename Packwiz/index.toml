@@ -713,11 +713,6 @@ hash = "543eb2026a89f31393f6d49b7cc7f19057737f3aa050a9492608355553fd8df2"
 metafile = true
 
 [[files]]
-file = "mods/redeco.pw.toml"
-hash = "34015d45e4633a72f455582445cf4af1460ac7e7b853c2849bbc839180ed6721"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
