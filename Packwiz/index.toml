@@ -82,7 +82,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1b9457084d4e7a1e1b0a97a6dc04f8c10b9f4fe45926123a27ff11b9f38e7f50"
+hash = "d628080028e6c7a253eafa79698cc2fa4d7211de4df7ef7ebdbd8a16da57d388"
 
 [[files]]
 file = "mods/abandoned-villages.pw.toml"
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "6799b3e8cc9351dd5ffd130883a227170db1272f099d1077e8e4d2f4592a85ca"
+hash = "18a0101fd3a508d143509cb734a9a9337baba11eef40117334ae775211949b70"
 metafile = true
 
 [[files]]
