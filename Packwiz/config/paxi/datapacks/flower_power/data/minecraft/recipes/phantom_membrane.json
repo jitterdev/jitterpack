@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "minecraft:leather"
+		},
+		{
+			"item": "minecraft:rabbit_hide"
+		},
+		{
+			"item": "minecraft:string"
+		},
+		{
+			"item": "minecraft:feather"
+		}
+	],
+	"result": {
+		"item": "minecraft:phantom_membrane",
+		"count": 2
+	}
+}

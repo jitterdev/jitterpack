@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"AXA",
+		"XBX",
+		"AXA"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:netherite_scrap"
+		},
+		"A": {
+			"item": "galosphere:allurite_shard"
+		},
+		"X": {
+			"item": "galosphere:lumiere_shard"
+		}
+	},
+	"result": {
+		"item": "origins:orb_of_origin"
+	}
+}

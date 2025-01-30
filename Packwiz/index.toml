@@ -33,6 +33,22 @@ file = "config/paxi/datapacks/TheAncientCityOverhaul_v1_6.zip"
 hash = "5ff98f23deb18d26b56906c6859bbfe66e6f1d07aa2f379dad3b1f5271132c26"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/orb_of_origin.json"
+hash = "33ba5209ff92cd6fb18c94895510b66abc45f77545035fd1f27a80ca370956df"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/phantom_membrane.json"
+hash = "62a2b68a706cd335be503dbf99564922be4e72d1e9be884cd8632cbee6267b14"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/pack.mcmeta"
+hash = "506c594ce2645e144c78ee79f047f0357bee32f604eaaa6f4f32108904ce7355"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/pack.png"
+hash = "f3b2b95f345d076e6b0a1ba3e456c12ba9a1c0d4006d5dd53d286456b60d1bee"
+
+[[files]]
 file = "config/paxi/datapacks/thebastionoverhaul-v1-0.zip"
 hash = "c2f2309970253805050b4ece1942d9c85b9ab63d9893fb54394c814084bb8191"
 
@@ -82,7 +98,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "d628080028e6c7a253eafa79698cc2fa4d7211de4df7ef7ebdbd8a16da57d388"
+hash = "f39a45622fdf9725ef50bbaf777aa3dc8eefff6d72d8530ae6febd545f0884a4"
 
 [[files]]
 file = "mods/abandoned-villages.pw.toml"
@@ -117,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/almanac.pw.toml"
 hash = "7b5deb9d47f62d4fbd87773304810667e9d047658c5453533700dcab35431156"
-metafile = true
-
-[[files]]
-file = "mods/almost-unified.pw.toml"
-hash = "ea9c9695bf4a5d371600366a3f24912042e09b6295a00eab6eaafddd598ec4bb"
 metafile = true
 
 [[files]]
