@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "amarite:amarite_longsword",
+    "#malum:scythe",
+    "affinity:stabilized_artifact_blade",
+    "affinity:strengthened_artifact_blade",
+    "affinity:superior_artifact_blade",
+    "affinity:astral_artifact_blade"
+  ]
+}

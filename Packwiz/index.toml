@@ -25,12 +25,28 @@ file = "config/modernfix-mixins.properties"
 hash = "1e62619feacbdfbaf89ac0d170837a062d1ac9cfe30e1faf4feb1d01400a420a"
 
 [[files]]
+file = "config/mythicmetals-config.json5"
+hash = "642d039ef974a8a282ce4f36f1864afe42019dfcd2c1321fa09d65705725f7fb"
+
+[[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/TheAncientCityOverhaul_v1_6.zip"
 hash = "5ff98f23deb18d26b56906c6859bbfe66e6f1d07aa2f379dad3b1f5271132c26"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/big_weapons.json"
+hash = "5649bc423ebd90e1393f2960c2cf93623323d2deea29ad4bd8f42849384ca763"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/ranged_weapons.json"
+hash = "60c217fe0e9cb72cef8fcb2b51cfa84fd284fd06f9ace65470a71881d8eecaeb"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/shields.json"
+hash = "1e2ab136595f40353c0b4434a031f08fafe519cb0c298225c3ef0c0fd234f6c5"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/orb_of_origin.json"
