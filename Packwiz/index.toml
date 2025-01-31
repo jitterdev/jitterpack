@@ -109,6 +109,34 @@ file = "config/structure_layout_optimizer.jsonc"
 hash = "8d65916d55009b95df3520f2ccca91e9c4f798214113e831aa5804a263458108"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "bc8fc7587fa1e1237917f9e78b558f928e1e757090672c3f6863286583426a20"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "6f8b61ca512ac41462824a4642e2019abdb6778e79d3925a818924233e532a75"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
+
+[[files]]
+file = "config/universal-graves/models/corpse_player.json"
+hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
+
+[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
