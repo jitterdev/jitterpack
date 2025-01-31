@@ -4,7 +4,8 @@
   "default_packs": [
     "atmosfera:dungeons",
     "continuity:glass_pane_culling_fix",
-    "continuity:default"
+    "continuity:default",
+    "minecraft:supporteatinganimation"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -29,7 +30,8 @@
       "natures_spirit:dye_depot_compatibility_res",
       "dye_depot:dye_override",
       "natures_spirit:better_leaves_compatibility",
-      "supplementaries:darker_ropes"
+      "supplementaries:darker_ropes",
+      "minecraft:supporteatinganimation"
     ],
     "$$2": {
       "hidden": true
