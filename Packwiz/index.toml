@@ -400,6 +400,11 @@ hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
