@@ -575,6 +575,11 @@ hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
