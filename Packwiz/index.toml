@@ -49,6 +49,10 @@ file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/shields.json"
 hash = "1e2ab136595f40353c0b4434a031f08fafe519cb0c298225c3ef0c0fd234f6c5"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/leather.json"
+hash = "9441714bb0c189c3702d45c67728c724de1867e6942983c2cf8eb64328fc8676"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/orb_of_origin.json"
 hash = "33ba5209ff92cd6fb18c94895510b66abc45f77545035fd1f27a80ca370956df"
 

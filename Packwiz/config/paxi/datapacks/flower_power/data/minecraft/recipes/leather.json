@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:campfire_cooking",
+	"category": "misc",
+	"ingredient": {
+		"item": "minecraft:rotten_flesh"
+	},
+	"result": "minecraft:leather",
+	"cookingtime": 600
+}
