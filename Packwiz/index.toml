@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "c164de4714d51c6e8b92c560c889da158297e85939a8a87fbca26d44ffe2783a"
+hash = "e8cb710d947f022e6b359a7f22cb7446ed5a6a388b562fd996eafe2472fd709f"
 
 [[files]]
 file = "config/enhanced_bes.properties"

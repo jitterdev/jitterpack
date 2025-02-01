@@ -44,7 +44,8 @@
     "nether_depths:heated_touch",
     "amarite:accumulate",
     "amarite:double_dash",
-    "affinity:critical_gamble"
+    "affinity:critical_gamble",
+    "stockpile:infectious"
 
   ],
   "invertedList": false,
