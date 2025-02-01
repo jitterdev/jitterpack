@@ -1,0 +1,13 @@
+name = "Smoke Signals"
+filename = "smokesignals-1.0+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pwEUrYbl/versions/rkkbpI5y/smokesignals-1.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "2b8e2e3d3833169fbcdef49cd92cac7e7fd31887"
+
+[update]
+[update.modrinth]
+mod-id = "pwEUrYbl"
+version = "rkkbpI5y"

@@ -61,6 +61,10 @@ file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/phantom_membra
 hash = "62a2b68a706cd335be503dbf99564922be4e72d1e9be884cd8632cbee6267b14"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/tags/bookshelf_books.json"
+hash = "7c656e4404014039e0431917f8698e2f9f14e9bc8ba849b1059f0e6a8a2512db"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/pack.mcmeta"
 hash = "506c594ce2645e144c78ee79f047f0357bee32f604eaaa6f4f32108904ce7355"
 
@@ -274,6 +278,11 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "6813cfc18a8812f00b3f6a7c5d01a02828b109d8c394f2c1b01bd5960c241120"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
 metafile = true
@@ -309,6 +318,11 @@ hash = "1fcab08e3cee2801d59c51fd1c850685fc3d323676377b55f97313c388f14894"
 metafile = true
 
 [[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "b4d8488356c85c80def434b88d26e64f75c090e0a542bc8a597e8962a2f92477"
 metafile = true
@@ -316,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "f0f18290ff48f9060307f5776f7b2307e8d2cb72aa14f3c799a63d7b1e3efe0a"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "334e125dec5101702c5fcd36b20806c20b0625bcf82d7462cc247165474f3802"
 metafile = true
 
 [[files]]
@@ -804,6 +823,11 @@ hash = "ee40bcf0cfdbb04c5867b6678af399383bdf7e2c1ecee8b8f4b2004f3d110505"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "7841c65d1d8b3c7997ccd7103d889c15caba68a794938df49fb90126ed6eeb75"
+metafile = true
+
+[[files]]
 file = "mods/ratatouille.pw.toml"
 hash = "95536753f3ec204722da2f2b5c6d615b16a1c674b9cfc3311da12b6873fc8708"
 metafile = true
@@ -861,6 +885,11 @@ metafile = true
 [[files]]
 file = "mods/sitting+.pw.toml"
 hash = "b8d3939f1b8c3f0add12b7495dac602bcfbde4143145381c0e4fe2bedc5b5f44"
+metafile = true
+
+[[files]]
+file = "mods/smoke-signals.pw.toml"
+hash = "66a070f7730a4e6751c112ea14a634964550ca4769308a742a5e7b213d3077bf"
 metafile = true
 
 [[files]]
