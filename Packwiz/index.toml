@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "237aafe4ad5384f7cdb2415d7e339d5929d975b60399947b2e359d15b693e9d8"
+hash = "420fd69691cd3af1785d590e134d61fa21cbb4e27c42cc3b5f2becb1353ca682"
 metafile = true
 
 [[files]]
