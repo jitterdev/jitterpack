@@ -5,6 +5,10 @@ file = "config/enchancement.json"
 hash = "c164de4714d51c6e8b92c560c889da158297e85939a8a87fbca26d44ffe2783a"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "5f80a532783faac7a441863b36e5dd86488beb86d7da9a86064177493a1dbfe4"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "cbc7c693c99c0db712d63b420ec0a9554b11f7bc3350c3fd7a875cf0b8706583"
 
