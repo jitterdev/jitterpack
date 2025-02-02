@@ -1,6 +1,6 @@
 name = "Sitting+"
 filename = "sittingplus-fabric-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RVtIOlYX/versions/nPj4j2d0/sittingplus-fabric-1.0.0.jar"

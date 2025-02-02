@@ -53,6 +53,14 @@ file = "config/paxi/datapacks/flower_power/data/arsenal/tags/items/shields.json"
 hash = "1e2ab136595f40353c0b4434a031f08fafe519cb0c298225c3ef0c0fd234f6c5"
 
 [[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/activator_rail.json"
+hash = "6173fc318547273c1c28f7e7491349d75729c85237f31d688bab1f432e252486"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/detector_rail.json"
+hash = "2e06dcafa03de2538c74a33003bcde96d003c54ffbad604b54b71150d90b56b8"
+
+[[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/leather.json"
 hash = "9441714bb0c189c3702d45c67728c724de1867e6942983c2cf8eb64328fc8676"
 
@@ -63,6 +71,10 @@ hash = "33ba5209ff92cd6fb18c94895510b66abc45f77545035fd1f27a80ca370956df"
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/phantom_membrane.json"
 hash = "62a2b68a706cd335be503dbf99564922be4e72d1e9be884cd8632cbee6267b14"
+
+[[files]]
+file = "config/paxi/datapacks/flower_power/data/minecraft/recipes/rail.json"
+hash = "60df22e43e954335f6636361d6575322894755ae9b3798019bd7a427b5259bc6"
 
 [[files]]
 file = "config/paxi/datapacks/flower_power/data/minecraft/tags/bookshelf_books.json"
@@ -387,6 +399,11 @@ hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "e519048f1be3e12f717e5f812b0c407d01f1c178951468638581af2d19f6c689"
+metafile = true
+
+[[files]]
 file = "mods/death-knell.pw.toml"
 hash = "b9003d1b6da5a13d9a6de48eef8375c2abae7f97bb0c0caf89f136bd2e8e47b4"
 metafile = true
@@ -434,11 +451,6 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
@@ -893,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/sitting+.pw.toml"
-hash = "b8d3939f1b8c3f0add12b7495dac602bcfbde4143145381c0e4fe2bedc5b5f44"
+hash = "4a458fa7ebcaf56367c64d2867ed1a9727929922c0f2c5d89e513cbb79ad8ba7"
 metafile = true
 
 [[files]]
