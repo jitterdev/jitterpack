@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "e8cb710d947f022e6b359a7f22cb7446ed5a6a388b562fd996eafe2472fd709f"
+hash = "de1565b000adfa633681f6255ea8078db066f422f5dcdcd9584b5fa3eb7f8922"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -299,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
 
 [[files]]
