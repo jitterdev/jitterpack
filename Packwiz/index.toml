@@ -101,6 +101,14 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/fixed fd overlay.zip"
+hash = "09f7df4d04bffe6c13eef64ba6bc0129e1bae583ec4c080d4b813b47f7ea29d4"
+
+[[files]]
+file = "config/raised.json"
+hash = "7e9f4e0108de483fdbb95409025dfa40248008a66824cc738cfa9dc456bea756"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "f4b79cb55ca1125be86a774a9a31bf8e1a831032897ed4acc5149671ac5760bf"
 
