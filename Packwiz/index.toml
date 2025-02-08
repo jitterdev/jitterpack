@@ -287,6 +287,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
@@ -394,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
+metafile = true
+
+[[files]]
+file = "mods/create-trims.pw.toml"
+hash = "c4e21866ae6e6780aeac9d7a0f7397bf8523a2ad6bdf4f81ea7832720339cdb9"
 metafile = true
 
 [[files]]
@@ -547,6 +557,11 @@ hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
 metafile = true
 
 [[files]]
+file = "mods/frights-delight.pw.toml"
+hash = "14f0596d65990ceb0a6119255d6e8ec2610ce4bb2fb4f58e5eb116b9bfe32065"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "87acb9d1875994829c3a4e00472b744f2ae5d8f258e97638260bfd737547f527"
 metafile = true
@@ -679,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "db96f1c13c6e95816cbfb64c757ca3850688671e59ad09e4f4ce9cc9582a215e"
 metafile = true
 
 [[files]]
