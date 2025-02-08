@@ -24,7 +24,10 @@
     "galosphere:silver_bomb",
     "mythicmetals:celestium_elytra",
     "mythicmetals:unobtainium_smithing_template",
-    "supplementaries:bomb_blue"
+    "supplementaries:bomb_blue",
+    "metalbundles:golden_bundle",
+    "metalbundles:diamond_bundle",
+    "metalbundles:netherite_bundle"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
